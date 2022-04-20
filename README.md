@@ -1,6 +1,6 @@
 # Wearable Healthcare Device Simulation:
 
-The project was about simulating a wearable healthcare device, part of one of my MSC Data Scieence, Programming With Data, 2021.
+The project was about simulating a wearable healthcare device, part of one of my MSC Data Science, Programming With Data, 2021.
 
 The input data is randomly generated. The project's main challenge is finding a reasonable searching and
 possibly sorting algorithm to satisfy the program's scalability.
